@@ -214,7 +214,7 @@ def Verdados():
 
 
 
-#FUNÇÃO ATUALIZAR
+
 def selecionar(e):
     nome_atualizado.delete(0,END)
     gmail_atualizado.delete(0,END)
@@ -226,7 +226,8 @@ def selecionar(e):
     nome_atualizado.insert(0,valores[0])
     gmail_atualizado.insert(0,valores[1])
     CPF_atualizado.insert(0,valores[2])
-
+         
+#FUNÇÃO ATUALIZAR
 def atualizar():
     pegar= tv.selection()
     for i in pegar:
@@ -258,7 +259,7 @@ def atualizar():
     gmail_atualizado.delete(0,END)
     CPF_atualizado.delete(0,END)
 
- #FUNÇÃO DE DELETAR   
+#FUNÇÃO DE DELETAR   
 def deletar():
     pegar= tv.selection()
     for i in pegar:
