@@ -8,8 +8,6 @@ Após a instalação, abra o programa e o  vs code (ou o programa que você usa 
 copie e cole o codigo 
 ![2024-04-25 23-43-29](https://github.com/KKnatan/C-R-U-D/assets/159738083/f45f2d00-a9d8-46f0-950c-2bd7c62d85e5)
 
-Após rodar o programa pela primeira vez, feche-o e faça isso (como mostra o vídeo)
-![2024-04-25 23-44-11](https://github.com/KKnatan/C-R-U-D/assets/159738083/8a5b3c35-65a2-4025-a1d2-8b91c491feeb)
 
 assim, um arquivo Data Base File irá aparecer em sua pasta
 Com o DB Browser aberto, vá em "Abrir Banco de dados" 
