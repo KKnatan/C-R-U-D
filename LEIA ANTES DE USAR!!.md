@@ -11,6 +11,8 @@ copie e cole o codigo
 Após rodar o programa, um arquivo Data Base File (Db) irá aparecer em sua pasta
 
 Com o DB Browser aberto, vá em "Abrir Banco de dados" 
+
+
 ![image](https://github.com/KKnatan/C-R-U-D/assets/159738083/5a5b0078-bbad-412a-81ad-d5a685e3601b)
 
 e selecione o arquivo com o nome de "Dados_clientes", depois vá em  "Navegar dados" 
