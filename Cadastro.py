@@ -10,7 +10,7 @@ conec=sqlite3.connect('Dados_Clientes.db')
 
 cursor=conec.cursor()
 
-cursor.execute("""CREATE TABLE dados(
+cursor.execute("""CREATE TABLE IF NOT EXISTS dados(
          nome text NOT NULL,
         gmail text NOT NULL,
         cpf integer NOT NULL
