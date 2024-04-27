@@ -60,7 +60,7 @@ def adicionar():
             conec.close()
             return True
                  
-         if  not (pegan.isalpha()):
+        if  not (pegan.isalpha()):
             messagebox.showerror("NOME INVALIDO","ESTE CAMPO APENAS ACEITA LETRAS!!!")
             entry_nome.delete(0,END)
             conec.close()
